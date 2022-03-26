@@ -1,1 +1,1 @@
-# KANG-BIOINFO.github.io
+# peixin-BIOINFO.github.io
